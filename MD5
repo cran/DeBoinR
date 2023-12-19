@@ -1,0 +1,15 @@
+7f97a1772699b34b6febbee667a11571 *DESCRIPTION
+e5abbc4bf72bbbc4f2688a3a3442ce6b *LICENSE
+6670d2b97d73a82347e9d32b9f64def9 *NAMESPACE
+9e07be7ae376b7d6801a1bdf22e9fe19 *R/depth_fctns.R
+7c5a70f2f710d2f353d31305442c0879 *R/helpers.R
+0261e2e728a4669719e2605141175271 *R/simulated_data.R
+7b27750612d524ca715c326ac07aeaa1 *R/summarize_densities.R
+5b6da67d4217c30db909affc81009f20 *README.md
+c1147c6dbf783c883138d50ede3e3985 *data/pdf_data.RData
+48e0d875b12b5f6431078e5e30872809 *data/x_grid.RData
+f9c5f040d78e8a952047a15a3ce6cf35 *inst/COPYRIGHT
+b55aef5ed852bd18e9eee1a4c37e0ca6 *man/deboinr.Rd
+6388f32c58606dd8ab407200c575abc4 *man/figures/boxplot_examples.png
+8e0bcb077657c053e488ad192360a788 *man/pdf_data.Rd
+e1eff3ec2e0a58c2d957b7fb8167d419 *man/print.DeBoinR.Rd
